@@ -14,8 +14,6 @@ A web app to track personal finances with transaction and budget management.
 - React
 - Material-UI
 - Recharts
-- MongoDB
-- Tailwind CSS
 
 ## Installation
 
@@ -23,8 +21,8 @@ A web app to track personal finances with transaction and budget management.
 
 -- bash --
 
-git clone https://github.com/yourusername/personal-finance-visualizer.git
-cd personal-finance-visualizer
+git clone https://github.com/Prayansh8/finance-visualizer.git
+cd finance-visualizer
 
 Install dependencies:
 
